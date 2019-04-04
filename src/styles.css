@@ -1,0 +1,11 @@
+/* Add application styles & imports to this file! */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  font-family: roboto;
+  font-size: 20px;
+}

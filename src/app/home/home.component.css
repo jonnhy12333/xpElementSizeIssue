@@ -1,0 +1,9 @@
+:host {
+  display: block;
+}
+
+.home {
+  background: lightblue;
+  margin: 15px;
+  padding-bottom: 15px;
+}

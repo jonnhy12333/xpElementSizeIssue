@@ -1,0 +1,9 @@
+:host {
+  display: block;
+}
+
+.detail {
+  background: pink;
+  margin: 15px;
+  padding-bottom: 15px;
+}
